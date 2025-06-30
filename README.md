@@ -4,19 +4,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)](https://fastapi.tiangolo.com/)
 
-## 🌟 About
+##  About
 
 Yield Optimizer MCP is an advanced DeFi analytics tool that identifies optimal yield farming and staking opportunities across multiple protocols and blockchains. By leveraging real-time APY analysis, liquidity pool metrics, and strategy simulations, it helps users maximize returns on their crypto assets.
 
 **Key Advantages**:
-- 🔍 Cross-protocol yield comparison
-- 🤖 AI-powered strategy recommendations
-- 🧩 Modular architecture for custom integrations
-- ⚡ Real-time multi-chain data aggregation
+-  Cross-protocol yield comparison
+-  AI-powered strategy recommendations
+-  Modular architecture for custom integrations
+-  Real-time multi-chain data aggregation
 
 **Supported Chains**: Ethereum, Arbitrum, Base, Avalanche, Optimism, and Solana.
 
-## 📥 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -29,7 +29,7 @@ git clone https://github.com/trigslink/Yield_Optimiser_mcp.git
 cd Yield_Optimiser_mcp
 ```
 
-## � Project Structure
+##  Project Structure
 
 ```
 yield_optimizer_mcp/
@@ -51,7 +51,7 @@ yield_optimizer_mcp/
 └── README.md
 ```
 
-## 🛠️ Installation
+##  Installation
 
 1. **Set up environment variables**:
    ```bash
@@ -72,7 +72,7 @@ yield_optimizer_mcp/
    pip install -r requirements.txt
    ```
 
-## � Usage
+##  Usage
 
 ### Local Development
 ```bash
@@ -117,14 +117,14 @@ GET /api/v1/yield?chain=ethereum&wallet=0x...
 ```
  
 
-## 📜 License
+##  License
 
 MIT License - See [LICENSE](LICENSE) for details.
 
-## 📧 Contact
+##  Contact
 
 For support and inquiries:
 - Email: [trigslink@gmail.com](mailto:trigslink@gmail.com)
 - GitHub: [https://github.com/trigslink](https://github.com/trigslink)
 - Youtube: [https://youtube.com/@trigslink](https://youtube.com/@trigslink)
-```
+
