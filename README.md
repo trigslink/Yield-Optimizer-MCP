@@ -1,6 +1,3 @@
-Here's the complete, polished README.md with your project description, setup instructions, and all essential sections:
-
-```markdown
 # 🚀 Yield Optimizer MCP
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
