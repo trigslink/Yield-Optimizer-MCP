@@ -106,8 +106,8 @@ def metadata():
         - 'model': OpenAI model like 'gpt-4o' (optional if set in ENV, defaults to 'gpt-4o')
         - 'input': Natural language query like 'Check yield for wallet 0xabc on ethereum'
         """,
-        "https_uri": "https://association-hayes-serves-enhancing.trycloudflare.com",
-        "endpoint": "https://association-hayes-serves-enhancing.trycloudflare.com/wallet-yield/",
+        "https_uri": "https://penguin-wholesale-tin-voltage.trycloudflare.com",
+        "endpoint": "https://penguin-wholesale-tin-voltage.trycloudflare.com/wallet-yield/",
         "method": "POST",
         "input_format": {
             "input": "Optional. Natural language like 'Check yield for wallet 0xabc on ethereum'.",
